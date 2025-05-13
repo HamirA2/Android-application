@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">CS360ProjectTwo</string>
+    <string name="login">Login:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="create_login">Create Login</string>
+    <string name="daily_weight">Daily Weight</string>
+    <string name="goal_weight">Goal Weight</string>
+    <string name="date_added">Date Added</string>
+    <string name="account">Account</string>
+    <string name="add">Add</string>
+    <string name="data_goes_here">Data goes here...</string>
+    <string name="remove">Remove</string>
+    <string name="welcome_to_weight_tracker">Welcome to Weight Tracker!</string>
+    <string name="nutritional_food_information">Nutritional Food Information</string>
+    <string name="nutritional_value_of_common_fruits_and_meals">Nutritional value of common fruits and meals!</string>
+    <string name="at_home_exercises">At Home Exercises</string>
+    <string name="effective_and_short_exercises">Effective and short exercises to stay in shape!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="progress">Progress</string>
+    <string name="title_home">Home</string>
+    <string name="title_progress">Progress</string>
+    <string name="start_date">Start Date</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="fill_in_the_lines_below">Fill in the lines below!</string>
+    <string name="delete">Delete</string>
+    <string name="apples">Apples</string>
+    <string name="apple_description">Calories: 94.6, Protein: 0.43g, Carbs: 25.1g, Sugar: 18.9g, \n
+    Fiber: 4.37g \n\n One of the world\'s most popular fruit, the apple is nature\'s sweet treat being
+    high in fiber, antioxidants, and vitamin C to help you feel filled, manage blood sugar levels,
+    and improve digestion (Arnarson, 2023). \n\n Reference:\n Arnarson, A. (2023).
+        <i>Apples 101: Nutrition Facts and Health Benefits</i>. Healthline.
+        <nav><a>https://www.healthline.com/nutrition/foods/apples</a></nav>
+    </string>
+    <string name="bananas">Bananas</string>
+    <string name="banana_description">Calories: 89, Protein: 1.1g, Carbs: 22.8g, Sugar: 12.2g, \n
+    Fiber: 2.6g \n\n A softer fruit, bananas are packed with vitamins, such as potassium to
+    regulate heart health, and Vitamin B6 and C to manage blood sugar and promote a sense of being
+    filled (Arnarson, 2023). \n\n Reference:\n Arnarson, A. (2023).
+        <i>Bananas 101: Nutrition Facts and Health Benefits</i>. Healthline.
+        <nav><a>https://www.healthline.com/nutrition/foods/bananas</a></nav>
+    </string>
+    <string name="grapes">Grapes</string>
+    <string name="grape_description">Calories: 104, Protein: 1g, Carbs: 27g, Sugar: 23g, \n Fiber:
+    1.4g \n\n With a cup of red or green grapes, this fruit is packed with nutrients to help manage
+    heart health, reduce cholesterol, and improve bone and eye health (Lang, 2023). \n\n Reference:
+    \n Lang, A. (2023).
+        <i>The Top 16 Health Benefits of Grapes</i>. Healthline.
+        <nav><a>https://www.healthline.com/nutrition/benefits-of-grapes</a></nav></string>
+    <string name="yogurt">Greek Yogurt</string>
+    <string name="yogurt_description">Calories: 190, Protein: 18g, Carbs: 6g, Sugar: 6g, \n Fiber:
+    0g \n\n A high protein snack, greek yogurt provides calcium for strong bones, probiotics for gut
+    health, and contains various vitamins (Joseph, 2023). Mix with fruit, nuts, and granola to create a balanced
+    snacked. \n\n Reference: \n Joseph, M. (2023).
+        <i>Greek Yogurt 101: Nutrition Facts and Health Benefits</i>. Nutrition Advance.
+    <nav><a>https://www.nutritionadvance.com/greek-yogurt-nutrition-benefits/</a></nav></string>
+    <string name="nuts">Nuts</string>
+    <string name="nuts_description">Calories: 157–204, Protein: 2–7g, Carbs: 3–9g, Sugar: 0g, \n
+    Fiber: 1-3g \n\n Nuts like almonds, pistachios, walnuts, cashews, pecans, Brazil nuts, hazelnuts,
+     and peanuts provide no significant amount of sugar and sodium when consumed raw, providing a
+    protein filled alternative to chips, a crunchy way to get nutrients and vitamins, and they pair
+    well with fruits and yogurt (Robertson &amp; Kubala, 2024). \n\n Reference: \n Robertson, R.,
+    Kubala, J. (2024).
+    <i>The Top 9 Nuts to Eat for Better Health</i>. Healthline.
+    <nav><a>https://www.healthline.com/nutrition/9-healthy-nuts</a></nav></string>
+    <string name="peanut_butter">Peanut Butter</string>
+    <string name="peanut_butter_description">Calories: 190, Protein: 7g, Carbs: 8g, Sugar: 3g,
+    \n Fiber: 2g \n\n A tasty versatile spread classified with the nuts and seed category, this
+    snack is a good source of protein, carbs, and healthy fats when consumed in moderation. Can
+    help manage weight, reduce the risk of heart disease, and aid in building muscle (Frey, 2024).
+    \n\n Reference: \n Frey, M. (2024). <i>Peanut Butter Calories and Nutrition Facts</i>. Verywell
+        Fit.
+    <nav><a>https://www.verywellfit.com/is-peanut-butter-good-for-you-3495231</a></nav></string>
+    <string name="push_ups">Push Ups</string>
+    <string name="push_ups_description">Maintain a strong form with push ups that work the chest,
+    triceps, and shoulder muscles with just the weight of your body. \n\n Start kneeled with hands
+    shoulder width apart. Move one leg behind at a time, keeping them together like a plank. Start
+    lowering your body by using your hands, abs, and legs to prevent falling on the ground. Once
+    your chest touches the ground, use your hands, abs, and legs to push yourself back up,
+    completing a repetition. Do as much as you can, until your body gets used to performing push ups.
+    Start on your knees if unable to perform push ups in a plank position. Make it more challenging
+    by doing push ups at different elevations or adding more weight with a backpack. Make sure your
+    body is straight throughout.</string>
+    <string name="squats">Squats</string>
+    <string name="squats_description">A lower body exercise that works the quads and hamstring
+    muscles, squats help build the legs without needing much space. \n\n Start by setting your feet
+    about shoulder width apart, making sure your legs are in a comfortable position. Bend your knees
+    until they cover your feet, using your hands to keep your balance. Start going up by pushing
+    your feet towards the ground until your legs are straight, completing a repetition. Make sure
+    your back is straight throughout.
+    </string>
+    <string name="crunches">Crunches</string>
+    <string name="crunches_description">An exercise that works the mid-section of the body, crunches
+    allows you to work out your body while laying down. \n\n Start by finding a comfortable place
+    to lay down, making sure your clothing does not hinder your movements. Lift your knees up at a
+    comfortable angle, and begin lifting your body by squeezing you mid-section/stomach. When able
+    to look over your knees, slowly go back down at the starting position to complete a repetition.
+    </string>
+    <string name="burpees">Burpees</string>
+    <string name="burpees_description">A more intense exercise, burpees will have you moving and
+    sweating in no time with just a few simple movements. \n\n Start by being in a standing position.
+    Then, follow the push ups positioning until you are at the plank position. At the plank position,
+    go back up to the standing position and perform a low vertical jump to complete a repetition.
+    Start off slow until you get used to the movements, then gradually increase your speed to make
+    things more difficult. For more of a challenge, throw in push ups and squats between the
+    movements to create a dynamic full body exercise.</string>
+    <string name="back_pulls">Back Pulls</string>
+    <string name="back_pulls_description">Get your back stronger by pulling objects with different
+    grip and standing positions. \n\n Start by bending your knees slightly. Using either an overhand
+    or underhand grip, squeeze your back to move your arms back. Return to the starting position to
+    complete a repetition. To work your upper back, start at a standing position. Try to do a shrug
+    using both the left and right shoulders, keeping your arms straight. Relax to complete a
+    repetition. Try using bottles, gallons, grocery bags, and other objects as weight to make each
+    variation difficult without needing professional equipment.</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="yes">yes</string>
+    <string name="would_you_like_to_delete_this_data">Would you like to delete this data?</string>
+    <string name="delete_question">Delete?</string>
+</resources>
